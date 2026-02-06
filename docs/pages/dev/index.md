@@ -10,7 +10,7 @@
 - [Moom](https://xclient.info/s/moom.html) 强大的窗口布局工具
 - [Ghostty](https://ghostty.org/) 现代化的终端模拟器
 - [iShot](https://apps.apple.com/cn/app/id1485844094) 优秀的截图贴图录屏录音 OCR 翻译取色标注工具
-- [snapaste](https://github.com/charlzyx/snapaste) 快速截图贴图工具
+- [Snipaste](https://zh.snipaste.com/) 强大的截图贴图工具
 - [Paste](https://macwk.com.cn/soft/paste) 剪切板记录增强工具
 - [The Unarchiver](https://apps.apple.com/cn/app/id425424353) 解压软件
 - [IINA](https://iina.io/) The modern media player for macOS.
