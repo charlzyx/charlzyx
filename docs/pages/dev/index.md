@@ -29,6 +29,7 @@
 
 - [Visual Studio Code](https://code.visualstudio.com/) Visual Studio Code
 - [proxyman](https://proxyman.io/) 抓包工具 Capture HTTP(s)
+- [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev) 基于 Tauri 的 Clash 图形化客户端
 
 ## 命令行工具
 
