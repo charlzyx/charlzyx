@@ -16,7 +16,7 @@
 - [IINA](https://iina.io/) The modern media player for macOS.
 - [腾讯柠檬](https://lemon.qq.com/) 腾讯柠檬清理
 - [Cyberduck](https://cyberduck.io/) FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.
-- [Pathfinder](https://macwk.com.cn/soft/pathfinder) 多视图文件管理器
+- [Path Finder](https://www.cocoatech.com/) 多视图文件管理器
 - [Microsoft Edge](https://www.microsoft.com/zh-cn/edge/download) Microsoft Edge 浏览器
 - [Brave Browser](https://brave.com/) 隐私优先的浏览器
 
